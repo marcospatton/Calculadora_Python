@@ -8,7 +8,5 @@ Criando uma calculadora simples em python
 <br><br>
 O que aprendemos neste projeto:
 
-<li> Trabalhar com frame
-  <li>Frame
-    <li>posicionamento do label e muito mais.
+<li> ótimo exercicio para trabalhar com a configuração da tela, posições dos labeis e frames e lôgica do calculo.
       
