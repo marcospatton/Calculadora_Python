@@ -6,3 +6,9 @@ Criando uma calculadora simples em python
 <br><br>
 <img src="https://github.com/marcospatton/Calculadora_Python/blob/main/calculadora.png"></a>
 <br><br>
+O que aprendemos neste projeto:
+
+<li> Trabalhar com frame
+  <li>Frame
+    <li>posicionamento do label e muito mais.
+      
